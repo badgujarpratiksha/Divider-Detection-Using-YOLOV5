@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Colab Notebooks/seg_divider/custom_dataset
+train: /content/drive/MyDrive/Colab Notebooks/seg_divider/custom_dataset/train/images
+val: /content/drive/MyDrive/Colab Notebooks/seg_divider/custom_dataset/valid/images
+test: /content/drive/MyDrive/Colab Notebooks/seg_divider/custom_dataset/test/images
+nc: 1
+names: ['divider']
